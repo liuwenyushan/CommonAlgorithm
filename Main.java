@@ -6,11 +6,10 @@ import java.util.LinkedList;
 
 public class Main {
 	
-	int test;
+	
     public static void main(String[] args) {
 
-    	int[] A={ -2, 11, -4, 13, -5, -2 ,188};
-    	System.out.print(MaxSubSequence(A));
+    	
 
     }
 
